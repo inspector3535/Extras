@@ -35,3 +35,10 @@
         ]
     ]
 }
+
+"checkver": {
+    "github": "https://github.com/janhq/jan"
+},
+"autoupdate": {
+    "url": "https://github.com/janhq/jan/releases/download/v$version/Jan_$version_x64-setup.exe"
+}
